@@ -16,8 +16,8 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./writeup/distribution.png "Distribution"
-[image2]: ./writeup/signs_1.png "Signs"
+[image1]: /writeup/distribution.png "Distribution"
+[image2]: /writeup/signs_1.png "Signs"
 
 
 ## Rubric Points
@@ -108,7 +108,7 @@ for i, (image, label) in enumerate(zip(X_train, y_train)):
 [//]: # (Image References)
 
 
-[image3]: ./writeup/processing.png "Processing"
+[image3]: /writeup/processing.png "Processing"
 
 Here is an example of an original image, after the sharpen process and after the entire processing with the contrast enhanced :
 
@@ -118,7 +118,7 @@ Here is an example of an original image, after the sharpen process and after the
 
 [//]: # (Image References)
 
-[image4]: ./writeup/Study.png "Study"
+[image4]: /writeup/Study.png "Study"
 
 #### 2. Describe what your final model architecture looks like including model type, layers, layer sizes, connectivity, etc.) Consider including a diagram and/or table describing the final model.
 
